@@ -1,1 +1,5 @@
-# Statistical_Data_Mining_work3
+Implementation of
+- Decision Tree
+- Bagging
+- Random Forest
+- Boosting
